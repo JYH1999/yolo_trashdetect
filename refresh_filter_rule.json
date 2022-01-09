@@ -1,0 +1,44 @@
+{
+    "Dry_cell": [
+        "干电池"
+    ],
+    "Drink_bottle": [
+        "饮料瓶"
+    ],
+    "Can": [
+        "可回收垃圾"
+    ],
+    "Ceramic_ware": [
+        "砖瓦陶瓷"
+    ],
+    "Peel": [
+        "果皮"
+    ],
+    "Pulp": [
+        "果肉"
+    ],
+    "Vegetable": [
+        "蔬菜"
+    ],
+    "eggshell": [
+        "蛋壳"
+    ],
+    "fish_bone": [
+        "鱼骨"
+    ],
+    "Peel_and_pulp": [
+        "果皮果肉"
+    ],
+    "Big_bones": [
+        "大骨头"
+    ],
+    "Cigarette_butts":[
+        "烟蒂"
+    ],
+    "饮用水":[
+        "饮料瓶"
+    ],
+    "Express_paper_bag":[
+        "可回收垃圾"
+    ]
+}

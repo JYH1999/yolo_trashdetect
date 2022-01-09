@@ -1,0 +1,58 @@
+{
+    "可回收物": [
+        "power_Bank",
+        "bag",
+        "Toiletries",
+        "Plastic_toys",
+        "Plastic_utensils",
+        "Plastic_hangers",
+        "glassware",
+        "Metal_utensils",
+        "Express_paper_bag",
+        "Can",
+        "pillow",
+        "shoe",
+        "Carton_box",
+        "Condiment_bottles",
+        "Wine_bottle",
+        "Metal_food_can",
+        "Metal_kitchenware",
+        "pot",
+        "Edible_oil_drum",
+        "Drink_bottle",
+        "trash_can",
+        "hair_washing_bottles",
+        "paper_bag",
+        "Stained_plastic"
+    ],
+    "厨余垃圾": [
+        "Leftovers",
+        "Big_bones",
+        "Peel_and_pulp",
+        "Tea_residue",
+        "Vegetable",
+        "eggshell",
+        "fish_bone",
+        "Peel",
+        "Pulp"
+    ],
+    "有害垃圾": [
+        "Dry_cell",
+        "ointment",
+        "Expired_drugs"
+    ],
+    "其他垃圾": [
+        "Disposable_snack_box",
+        "Cigarette_butts",
+        "toothpick",
+        "flower_pot",
+        "Ceramic_ware",
+        "chopsticks",
+        "Plug_wire",
+        "Plush_toys",
+        "Cutting_board",
+        "old_clothes",
+        "Book_paper",
+        "Stained_paper"
+    ]
+}

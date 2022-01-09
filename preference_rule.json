@@ -1,0 +1,39 @@
+{
+    "Dry_cell": [
+        "power_Bank",
+        "Toiletries",
+        "ointment",
+        "Expired_drugs",
+        "hair_washing_bottles"
+    ],
+    "Drink_bottle": [
+        "glassware",
+        "Edible_oil_drum",
+        "Wine_bottle",
+        "Condiment_bottles",
+        "Stained_plastic",
+        "Plastic_utensils"
+    ],
+    "Can": [
+        "Metal_food_can",
+        "Metal_kitchenware",
+        "Metal_utensils"
+    ],
+    "Ceramic_ware": [
+        "pot",
+        "bag",
+        "shoe",
+        "flower_pot",
+        "old_clothes"
+    ],
+    "Cigarette_butts":[
+        "toothpick"
+    ],
+    "Vegetable":[
+        "Plug_wire"
+    ],
+    "Express_paper_bag":[
+        "Plug_wire",
+        "paper_bag"
+    ]
+}
